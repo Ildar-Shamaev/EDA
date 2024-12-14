@@ -7,3 +7,5 @@
 **EDA_02_Mathematical_tatistics** - Математическая статистика в контексте EDA
 
 **EDA_03_Feature_design** - Проектирование признаков
+
+**projects** - Проекты по EDA
