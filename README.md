@@ -11,4 +11,6 @@
 
 **EDA_04_Statistical_tests** - Статистические тесты
 
+**EDA_05_Designing_experiments** - Проектирование экспериментов
+
 **projects** - Проекты по EDA
