@@ -18,3 +18,5 @@
 * Neighbourhood — район проживания каждого пациента;
 * Scholarship — получает ли пациент стипендию;
 * …и несколько других признаков.
+
+Ссылка на логинирование в CometML: https://www.comet.com/ildar-shamaev/test/view/new/panels
